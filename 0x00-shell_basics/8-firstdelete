@@ -1,8 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
-rm /tmp/my_first_directory/betty
-=======
-#!/bn/bash
-rm /tmp/my_first_directory/betty
-
->>>>>>> 8796c607e71e97779d04e05453779255e98c270d
+#rm /tmp/my_first_directory/betty
